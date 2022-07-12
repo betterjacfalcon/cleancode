@@ -16,3 +16,15 @@ yarn dev
 ó
 npm run dev
 ```
+
+# En esta sección estaremos hablando y haciendo ejercicios sobre:
+
+¿Qué es la deuda técnica?
+
+¿Cómo se paga la deuda técnica?
+
+Refactorización
+
+Nombres de variables
+
+Nombres para funciones
